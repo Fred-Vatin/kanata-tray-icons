@@ -1,0 +1,23 @@
+# See https://github.com/rszyma/kanata-tray for help with configuration.
+
+configurations = [
+    
+]
+
+executables = [
+    
+]
+
+[layer_icons]
+Base = "Base.ico"
+NavNum = "NavNum.ico"
+SWITCH = "SWITCH.ico"
+Edit = "Edit.ico"
+lock = "lock.ico"
+symbols = "symbols.ico"
+transparent = "transparent.ico"
+
+[general]
+include_executables_from_system_path = false
+include_configs_from_default_locations = true
+launch_on_start = true
